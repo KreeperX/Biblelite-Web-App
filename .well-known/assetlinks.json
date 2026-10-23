@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kreeperx.biblelite",
+      "sha256_cert_fingerprints": [
+        "77:43:26:E4:50:F6:47:D5:8A:E6:DD:F9:D3:7C:E8:19:4C:10:07:B8:02:1E:3D:0F:29:62:12:BF:7B:6F:51:C9",
+        "BF:DE:C5:31:FE:C2:A0:08:BC:3D:C3:31:0C:97:37:2B:0F:E2:70:F0:E2:C6:96:30:78:A2:FC:DA:54:75:25:50"
+      ]
+    }
+  }
+]
