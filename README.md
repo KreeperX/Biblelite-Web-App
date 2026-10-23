@@ -1,2 +1,2 @@
 # Biblelite-Web-App
-Biblelite, Prayer sharing. Not Actual Website.
+Biblelite, Prayer sharing. 
